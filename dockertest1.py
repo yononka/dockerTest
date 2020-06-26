@@ -1,1 +1,1 @@
-print('Hello new beautiful world')
+print("Hello new beautiful world. You're wonderful!")
